@@ -1,2 +1,2 @@
-# Emotion_etection_in_Text
+# Emotion_Detection_in_Text
 NLP Project
